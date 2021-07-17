@@ -1,4 +1,4 @@
-# intermediate-scraping
+
 # ada beberapa fitur
 # 1.login
 # 2. Collecting all url for each page
